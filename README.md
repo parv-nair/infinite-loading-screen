@@ -51,6 +51,11 @@ cd infinite-loading-screen
 *Hover effect on the loading icon for added frustration*
 
 
+### Project Demo
+# Video
+[https://drive.google.com/drive/folders/1-GmQ1ktLwVVMGVMk1Q1JUZW86HjvdLVn](Video LINK!)
+
+
 ## Team Contributions
 - Parvathy V Nair: Project concept, website design, animation creation, debugging
 - Amrutha KA:Front-end recommendations
