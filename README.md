@@ -54,7 +54,7 @@ cd infinite-loading-screen
 
 ### Project Demo
 # Video
-[https://drive.google.com/drive/folders/1-GmQ1ktLwVVMGVMk1Q1JUZW86HjvdLVn](Video LINK!)
+(Video LINK!)
 [https://drive.google.com/drive/folders/1-GmQ1ktLwVVMGVMk1Q1JUZW86HjvdLVn]
 
 
