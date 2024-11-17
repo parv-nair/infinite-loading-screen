@@ -55,6 +55,8 @@ cd infinite-loading-screen
 # Video
 [https://drive.google.com/drive/folders/1-GmQ1ktLwVVMGVMk1Q1JUZW86HjvdLVn](Video LINK!)
 
+https://parv-nair.github.io/infinite-loading-screen/
+
 
 ## Team Contributions
 - Parvathy V Nair: Project concept, website design, animation creation, debugging
