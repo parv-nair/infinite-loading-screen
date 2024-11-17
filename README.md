@@ -1,6 +1,7 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # Infinite Loading Screen Website 🎯
+https://parv-nair.github.io/infinite-loading-screen/
 
 ## Basic Details
 **Team Name:** NovaX  
@@ -54,8 +55,6 @@ cd infinite-loading-screen
 ### Project Demo
 # Video
 [https://drive.google.com/drive/folders/1-GmQ1ktLwVVMGVMk1Q1JUZW86HjvdLVn](Video LINK!)
-
-https://parv-nair.github.io/infinite-loading-screen/
 
 
 ## Team Contributions
