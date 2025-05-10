@@ -8,7 +8,7 @@ https://parv-nair.github.io/infinite-loading-screen/
 **Team Name:** NovaX  
 **Team Members:**  
 **Team Lead:** Parvathy V Nair - SJCET, Palai  
-**Member 2:** Amrutha KA - SJCET, Palai  
+**Member 2:** Saniya Mary Jacob - SJCET, Palai  
 
 ## Project Description
 A satirical website that features an endless loading screen animation, simulating the frustration of waiting indefinitely for a page to load. It's the pinnacle of internet futility!
@@ -62,7 +62,7 @@ cd infinite-loading-screen
 
 ## Team Contributions
 - Parvathy V Nair: Project concept, website design, animation creation, debugging
-- Amrutha KA:Front-end recommendations
+- Saniya Mary Jacob:Front-end recommendations
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
