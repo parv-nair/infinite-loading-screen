@@ -11,6 +11,7 @@ https://parv-nair.github.io/infinite-loading-screen/
 **Team Lead:** Parvathy V Nair - SJCET, Palai  
 **Member 2:** Amrutha KA - SJCET, Palai  
 
+
 ## Project Description
 A satirical website that features an endless loading screen animation, simulating the frustration of waiting indefinitely for a page to load. It's the pinnacle of internet futility!
 
