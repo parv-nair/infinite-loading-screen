@@ -6,7 +6,7 @@ https://parv-nair.github.io/infinite-loading-screen/
 
 
 
-## Basic Details
+## Basic Details of the team
 **Team Name:** NovaX  
 **Team Members:**  
 **Team Lead:** Parvathy V Nair - SJCET, Palai  
